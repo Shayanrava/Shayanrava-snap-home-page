@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Shayanrava-snap-home-page/static/css/main.da01d94a.css",
-    "main.js": "/Shayanrava-snap-home-page/static/js/main.2b9811ec.js",
+    "main.js": "/Shayanrava-snap-home-page/static/js/main.b4c44fef.js",
     "static/media/IRANSansXFaNum-Light.ttf": "/Shayanrava-snap-home-page/static/media/IRANSansXFaNum-Light.f2aa2cd370edc44f6fc5.ttf",
     "static/media/IRANSansXFaNum-Bold.ttf": "/Shayanrava-snap-home-page/static/media/IRANSansXFaNum-Bold.4adfe834f02b51af874f.ttf",
     "index.html": "/Shayanrava-snap-home-page/index.html",
     "main.da01d94a.css.map": "/Shayanrava-snap-home-page/static/css/main.da01d94a.css.map",
-    "main.2b9811ec.js.map": "/Shayanrava-snap-home-page/static/js/main.2b9811ec.js.map"
+    "main.b4c44fef.js.map": "/Shayanrava-snap-home-page/static/js/main.b4c44fef.js.map"
   },
   "entrypoints": [
     "static/css/main.da01d94a.css",
-    "static/js/main.2b9811ec.js"
+    "static/js/main.b4c44fef.js"
   ]
 }
